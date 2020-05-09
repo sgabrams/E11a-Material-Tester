@@ -6,9 +6,9 @@
 [ext_resource path="res://models/godot_ball.mesh" type="ArrayMesh" id=4]
 
 [sub_resource type="SpatialMaterial" id=1]
-albedo_color = Color( 0.895294, 0.900549, 0.890078, 1 )
-metallic = 0.1
-roughness = 0.52
+albedo_color = Color( 0.807843, 0.576471, 0.360784, 1 )
+metallic = 0.48
+roughness = 0.28
 
 [sub_resource type="SpatialMaterial" id=2]
 albedo_color = Color( 0.551806, 0.709299, 0.980989, 1 )
